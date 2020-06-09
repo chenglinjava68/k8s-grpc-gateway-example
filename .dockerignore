@@ -1,0 +1,4 @@
+build/
+bin/
+Dockerfile
+k8s/
